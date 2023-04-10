@@ -1,4 +1,20 @@
+*logo{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    padding-top: 50px;
+}
+
 .card-img-top{
     height: 100%;
     width: 200%;
+}
+
+.logo{
+    width:7%;
+    height:7%;
 }
