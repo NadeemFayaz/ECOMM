@@ -58,7 +58,7 @@
          
             <button><a href="" class="nav-link text-light bg-info my-1">Insert products</a></button>
             <button><a href="" class="nav-link text-light bg-info my-1">View products</a> </button>
-            <button><a href="insert_categories.php" class="nav-link text-light bg-info my-1">Insert Categories</a> </button>
+            <button><a href="" class="nav-link text-light bg-info my-1">Insert Categories</a> </button>
             <button><a href="" class="nav-link text-light bg-info my-1">View Categories</a> </button>
             <button><a href="" class="nav-link text-light bg-info my-1">Insert Brand</a></button>
             <button><a href="" class="nav-link text-light bg-info my-1">View Brand</a></button>
