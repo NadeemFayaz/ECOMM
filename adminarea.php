@@ -47,7 +47,7 @@
         <h3 class="text-center mb-2">Manage details</h3>
     </div>
 
-    <!-- third part-->
+    
     <div class="row">
         <div class="col-md-12 bg-secondary p-1 d-flex align-items-center">
             <div> 
